@@ -31,3 +31,6 @@ C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\obj\Debug\net8.
 C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\obj\Debug\net8.0\TodoAPI.pdb
 C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\obj\Debug\net8.0\TodoAPI.genruntimeconfig.cache
 C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\obj\Debug\net8.0\ref\TodoAPI.dll
+C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\areva\OneDrive\Documents\GitHub\todoAPI\TodoAPI\TodoAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
