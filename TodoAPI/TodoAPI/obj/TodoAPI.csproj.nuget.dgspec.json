@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj": {}
+    "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj": {
+    "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
         "projectName": "TodoAPI",
-        "projectPath": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
-        "packagesPath": "C:\\Users\\areva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\obj\\",
+        "projectPath": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\TodoAPI.csproj",
+        "packagesPath": "C:\\Users\\Arevalo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\areva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arevalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\areva\\onedrive\\documents\\github\\todoapi\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\arevalo\\documents\\github\\todoapi\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\arevalo\\documents\\github\\todoapi\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\areva\\onedrive\\documents\\github\\todoapi\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\areva\\onedrive\\documents\\github\\todoapi\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\arevalo\\documents\\github\\todoapi\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\areva\\onedrive\\documents\\github\\todoapi\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|c:\\users\\arevalo\\documents\\github\\todoapi\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEE67B8-EA84-48F9-AA64-A4F24C213665}|TodoAPI\\TodoAPI.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,25 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "TodoAPI\\Models\\TodoItem.cs",
-              "ToolTip": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoItem.cs",
-              "RelativeToolTip": "TodoAPI\\Models\\TodoItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-25T00:00:54.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "TodoItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Controllers\\TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Controllers\\TodoItemsController.cs",
               "RelativeDocumentMoniker": "TodoAPI\\Controllers\\TodoItemsController.cs",
-              "ToolTip": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Controllers\\TodoItemsController.cs",
               "RelativeToolTip": "TodoAPI\\Controllers\\TodoItemsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T23:50:36.578Z",
               "EditorCaption": ""
@@ -58,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Program.cs",
               "RelativeDocumentMoniker": "TodoAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Program.cs",
               "RelativeToolTip": "TodoAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T23:43:34.959Z",
               "EditorCaption": ""
@@ -70,10 +57,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoAPI\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoAPI\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T00:00:54.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TodoContext.cs",
-              "DocumentMoniker": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoContext.cs",
               "RelativeDocumentMoniker": "TodoAPI\\Models\\TodoContext.cs",
-              "ToolTip": "C:\\Users\\areva\\OneDrive\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Arevalo\\Documents\\GitHub\\todoAPI\\TodoAPI\\TodoAPI\\Models\\TodoContext.cs",
               "RelativeToolTip": "TodoAPI\\Models\\TodoContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
